@@ -33,7 +33,9 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% endcomment %}
 
 
-8< ============================= until here ==================
+
+{% comment %}
+8< ============= For a workshop delete from here  until here ==================
 {% endcomment %}
 
 {% comment %}
